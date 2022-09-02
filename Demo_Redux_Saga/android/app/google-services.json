@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002356962288",
+    "project_id": "pushnotification-92423",
+    "storage_bucket": "pushnotification-92423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002356962288:android:f1b09c08a840eafc0c2335",
+        "android_client_info": {
+          "package_name": "com.demo_redux_saga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002356962288-v21q5rptag2cpkk8u77s4pa8fnkhauuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTSb_1rQBy-c73Mu4GXtVL40aBfDIJmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002356962288-v21q5rptag2cpkk8u77s4pa8fnkhauuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
